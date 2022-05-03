@@ -1,3 +1,5 @@
+# Web Scraper
+
 1. Find the URL that you want to scrape: https://www.jumbo.cl/vinos-cervezas-y-licores
 
 2. Inspecting the Page
